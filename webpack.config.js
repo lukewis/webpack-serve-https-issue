@@ -19,10 +19,10 @@ module.exports = {
         }),
     ],
     serve: {
-        host: "webpackserve.local",
+        host: "webpackserve.test",
         https: {
-            key: fs.readFileSync("webpackserve.local.key"),
-            cert: fs.readFileSync("webpackserve.local.cert")
+            key: fs.readFileSync("webpackserve.test.key"),
+            cert: fs.readFileSync("webpackserve.test.cert")
         }
     }
 };
