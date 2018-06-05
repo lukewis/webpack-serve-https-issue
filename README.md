@@ -1,5 +1,5 @@
 # webpack-serve-https-issue
-Illustrates a problem with setting up https using devcert and webpack-serve.
+Illustrates a problem with setting up https using devcert and webpack-serve: [https://github.com/webpack-contrib/webpack-serve/issues/162](https://github.com/webpack-contrib/webpack-serve/issues/162).
 
 # Environment
 - MacOS 10.13.3
